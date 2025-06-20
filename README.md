@@ -9,7 +9,7 @@ Through coaching, toolkits, and thought-provoking content, I empower professiona
 
 **Explore My Work**
 - [Coaching](/coaching/README.md)
-- [Change Management](/change-management/index.html)
+- [Change Management](/change-management/README.md)
 - [Agility](/agility/README.md)
 - [People Management](/people-management/README.md)
 

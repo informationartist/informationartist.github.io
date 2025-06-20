@@ -7,6 +7,6 @@ Here you’ll find:
 - Conversation templates
 - Self-reflection prompts
 
-[Download coaching resources ➜](../downloads/)
+[Download resources ➜](../downloads/)
 
 [Go back ➜](../../README.md)

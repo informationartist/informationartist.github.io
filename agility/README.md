@@ -6,3 +6,5 @@ Dive into:
 - Agile coaching materials
 - Ways of working templates
 - Retrospective facilitation kits
+
+Go Back (/informationartist.github.io/)

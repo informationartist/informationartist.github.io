@@ -1,7 +1,7 @@
 Welcome to my page!
 
 
-# 👋 I'm Ruchi, founder of the Information Artist.
+# 👋 Hi! I'm Ruchi, the brain behind Information Artist.
 
 I help change-makers, tech leaders, and teams bring clarity, creativity, and calm to complexity.
 

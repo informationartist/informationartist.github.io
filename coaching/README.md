@@ -7,6 +7,6 @@ Here you’ll find:
 - Conversation templates
 - Self-reflection prompts
 
-[Download coaching resources ➜](informationartist.github.io/downloads/)
+[Download coaching resources ➜](/downloads/README.md)
 
 [Go back ➜](/README.md)

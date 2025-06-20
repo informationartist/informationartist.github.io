@@ -9,4 +9,4 @@ Here you’ll find:
 
 [Download coaching resources ➜](informationartist.github.io/downloads/)
 
-[Go back ➜](informationartist.github.io/README.md)
+[Go back ➜](informationartist.github.io/default.html)

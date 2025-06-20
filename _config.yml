@@ -4,7 +4,7 @@ description: Think Visually
 author: Ruchira Parchur
 google_analytics:
 theme: jekyll-theme-minimal
-# Add navigation links
+
 header_pages:
   - README.md
   - coaching/README.md

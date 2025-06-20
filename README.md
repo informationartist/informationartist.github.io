@@ -1,4 +1,4 @@
-Welcome to my page!
+xWelcome to my page!
 
 
 # 👋 I'm Ruchi, founder of the Information Artist.
@@ -9,7 +9,7 @@ Through coaching, toolkits, and thought-provoking content, I empower professiona
 
 **Explore My Work**
 - [Coaching](/coaching/README.md)
-- [Change Management](/change-management/README.md)
+- [Change Management](/change-management/index.html)
 - [Agility](/agility/README.md)
 - [People Management](/people-management/README.md)
 

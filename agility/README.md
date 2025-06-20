@@ -1,9 +1,3 @@
-
-title: agility
-layout: page
-tags: [agile, delivery]
-
-
 # Agility
 
 True agility isn’t rituals and boards—it’s mindset, learning, and outcomes.

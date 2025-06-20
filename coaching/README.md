@@ -8,4 +8,5 @@ Here you’ll find:
 - Self-reflection prompts
 
 [Download coaching resources ➜](informationartist.github.io/downloads/)
+
 [Go back ➜](informationartist.github.io/)

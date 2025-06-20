@@ -4,3 +4,11 @@ description: Think Visually
 author: Ruchira Parchur
 google_analytics:
 theme: jekyll-theme-minimal
+# Add navigation links
+header_pages:
+  - README.md
+  - coaching/README.md
+  - change-management/README.md
+  - agility/README.md
+  - people-management/README.md
+  - downloads/README.md

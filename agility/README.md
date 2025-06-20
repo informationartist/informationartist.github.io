@@ -1,8 +1,8 @@
----
+
 title: agility
 layout: page
 tags: [agile, delivery]
----
+
 
 # Agility
 

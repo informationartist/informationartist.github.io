@@ -9,4 +9,4 @@ Here you’ll find:
 
 [Download coaching resources ➜](/downloads/README.md)
 
-[Go back ➜](/README.md)
+[Go back ➜](../README.md)

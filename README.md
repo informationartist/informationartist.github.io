@@ -13,6 +13,6 @@ Through coaching, toolkits, and thought-provoking content, I empower professiona
 - [Agility](/agility/README.md)
 - [People Management](/people-management/README.md)
 
-Looking for downloadable tools? Head over to [Downloads](/downloads/)
+Looking for downloadable tools? Head over to [Downloads](/downloads/README.md)
 
 Want insight-packed stories and lessons? Visit my [Blog](https://medium.com/informationartist)

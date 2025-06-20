@@ -1,4 +1,4 @@
-xWelcome to my page!
+Welcome to my page!
 
 
 # 👋 I'm Ruchi, founder of the Information Artist.

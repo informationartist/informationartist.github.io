@@ -5,7 +5,7 @@ Welcome to my page!
 
 I help change-makers, tech leaders, and teams bring clarity, creativity, and calm to complexity.
 
-Through coaching, tools, and thought-leadership, I empower professionals to design better ways of working, leading, and learning. If you're building change, scaling delivery, or nurturing people-first performance, you're in the right place.
+Through coaching, thought-leadership, and actionable strategies I empower professionals to design better ways of working, leading, and learning. If you're building change, scaling delivery, or nurturing people-first performance, you're in the right place.
 
 **Explore My Work**
 - [Coaching](/coaching/README.md)

@@ -3,7 +3,7 @@
 Here are all the files available for download:
 
 - [Beginner Coaching Session Template](./downloads/Beginner coaching session template.pdf)
-- [Change Canvas](./change-canvas.docx)
-- [Agile Toolkit](./agile-toolkit.zip)
+- [Coaching feedback template](./downloads/Coaching session end feedback template.pdf)
+
 
 _If you don’t see a file here, it might still be uploading!_
